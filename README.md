@@ -19,6 +19,25 @@ The dataset used for this analysis can be found on Kaggle: [Global Tourism Datas
 - **Step 5:** Incorporated filters and slicers to allow for detailed analysis.
 - **Step 6:** Published the report to Power BI Service for easy access and sharing.
 
+## Report Snapshot (International Tourists Arrivals by Region)
+
+![International Tourists Arrivals by Region](PowerBI_snapshots/intl_tourism_arrived_by_region.png)
+
+## Report Snapshot (Global Tourism Observation)
+
+![Global Tourism Observation](PowerBI_snapshots/global_tourism_obs.png)
+
+## Possible Stakeholders
+
+This dashboard can be valuable to a variety of stakeholders in the tourism industry, including:
+
+- **Government Agencies:** For example, the Ministry of Tourism can use this dashboard to monitor tourism trends and allocate resources to regions with growing tourist numbers.
+- **Tourism Boards:** Organizations like the World Tourism Organization (UNWTO) can utilize this data to understand global tourism patterns and create targeted campaigns for promoting lesser-known destinations.
+- **Hospitality Industry:** A hotel chain like Marriott International could analyze the data to identify key regions where they could expand their operations based on increasing tourist arrivals.
+- **Airlines and Transport Companies:** Airlines like Emirates or transport companies can use insights from the dashboard to optimize flight routes and enhance customer satisfaction in regions with high tourist traffic.
+- **Environmental Organizations:** Non-profits like the WWF can assess the impact of tourism on specific ecosystems and advocate for policies that encourage sustainable tourism.
+- **Investors and Business Leaders:** Venture capitalists and business leaders can use the dashboard to identify high-growth regions for investing in tourism-related ventures.
+- **Researchers and Academics:** Scholars studying the impact of tourism on global economies can use this dashboard to support their research with real-time data and visualizations.
 ## Insights
 
 ### 1. International Tourist Arrivals by Region (2010 - 2021)
@@ -44,15 +63,6 @@ The dataset used for this analysis can be found on Kaggle: [Global Tourism Datas
 - **Data Profiling:** Ensured the accuracy and consistency of data using Power Query Editor.
 - **Custom Measures:** Created DAX measures to calculate averages and totals for key metrics.
 - **Interactive Elements:** Added slicers and filters to make the dashboard more interactive and user-friendly.
-
-## Report Snapshot (International Tourists Arrivals by Region)
-
-![International Tourists Arrivals by Region](PowerBI_snapshots/intl_tourism_arrived_by_region.png)
-
-## Report Snapshot (Global Tourism Observation)
-
-![Global Tourism Observation](PowerBI_snapshots/global_tourism_obs.png)
-
 
 ## How to Access
 
