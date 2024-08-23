@@ -47,11 +47,12 @@ The dataset used for this analysis can be found on Kaggle: [Global Tourism Datas
 
 ## Report Snapshot (International Tourists Arrivals by Region)
 
-   `./PowerBI_snapshots/intl_tourism_arrived_by_region.png`
+![International Tourists Arrivals by Region](PowerBI_snapshots/intl_tourism_arrived_by_region.png)
 
 ## Report Snapshot (Global Tourism Observation)
 
-   `./PowerBI_snapshots/global_tourism_obs.png`
+![Global Tourism Observation](PowerBI_snapshots/global_tourism_obs.png)
+
 
 ## How to Access
 
