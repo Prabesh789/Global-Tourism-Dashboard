@@ -67,3 +67,8 @@ This dashboard can be valuable to a variety of stakeholders in the tourism indus
 ## How to Access
 
 To view the dashboard, visit the [Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiZTVjYzRmZDAtNGI4MS00YjU5LTg4YzctYTBkOGY3ZGNiZTM1IiwidCI6ImI2NDE3Y2QwLTFmNzMtNDQ3MS05YTM5LTIwOTUzODIyYTM0YSIsImMiOjN9).
+
+## Contact Information
+Feel free to contact me for more details:
+- **LinkedIn**: [https://www.linkedin.com/in/prabeshrai/]
+- **Email**: [raiprabesh775@gmail.com]
